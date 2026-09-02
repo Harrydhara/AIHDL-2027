@@ -1,4 +1,4 @@
-# Getting Started with AI-HDL 2025-2026
+# Getting Started with AI-HDL 2027
 
 Welcome to the AI Hardware Design League! This guide will help you get up and running with the competition environment and tools.
 
