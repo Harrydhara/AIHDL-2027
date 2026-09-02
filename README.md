@@ -145,13 +145,27 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ## 🏗️ Competition Structure
 
+### **Divisions**
+
+AI-HDL 2027 has two divisions. Teams compete against other teams in their division and are evaluated accordingly.
+
+- Lower Division - For high school teams. Every member of a Lower Division team must be a high school student.
+- Upper Division - For community college, undergraduate, and graduate teams. Upper Division teams may mix community college, undergraduate, and graduate students, with a maximum of 3 graduate students per team.
+    
 ### **Team Formation**
 
-- **Team Size**: 3-5 students
-- **Divisions**:
-  - Lower Division (Community College & Undergraduate)
-  - Upper Division (Graduate)
-- **Registration**: Individual or pre-formed teams welcome
+Teams are made up of 3-5 students at the same division level. You do not need to have already formed a team to register, and you may register independently or as part of a team.
+
+- If you register as part of a team, you will be prompted to provide your team name.
+- If you are the team captain, you will also be prompted to provide the institutional email addresses of your team members. Every team member must still complete their own registration.
+- If you register independently, we will match you with a team at your institution that has fewer than 5 members, or connect you with 2-4 other students at your institution based on level of experience, background, field of study, and availability.
+- If you are registering for the Lower Division, you must provide the name and email of a teacher or faculty sponsor at your high school. This applies whether you register independently or as part of a team.
+
+### **Weekly Commitment**
+
+- **Mentor Meetings**: 1-hour stand-up team meeting
+- **Project Work**: 3-5 hours of project work time 
+- **Flexible scheduling**: Each team determines its own schedule and work methods
 
 ### **Design Phases (DP)**
 
@@ -159,12 +173,6 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 2. **DP2: PPA Optimization**: Use LLMs to perform timing, power, and area optimization.
 3. **DP3: Security & Vulnerability Optimization**: Assess vulnerabilities (side-channels, debug misuse, hardware Trojans) and use LLM to implement countermeasures.
 4. **DP4: RTL to GDSII & Tapeout**: Teams complete floorplanning, place-and-route, sign-off (DRC/LVS/STA), and prepare tape-out deliverables.
-
-### **Weekly Commitment**
-
-- **Mentor Meetings**: 1-2 hours/week
-- **Project Work**: 5-10 hours/week
-- **Flexible scheduling** based on team availability
 
 ---
 
@@ -182,50 +190,13 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 - 🛡️ **Most Secure Design**
 - ⚡ **Best Energy-Efficient Design**
 - 📐 **Best Area-Efficient Design**
-- 🎨 **Most Creative AI Usage**
-- 👥 **Best Team Collaboration**
-
-### **Prizes**
-
-- Chip Tapeout for Winners in 2 divisions.
-- Hardware prizes and FPGA development boards
-- Internship opportunities with sponsor companies
-- Recognition at major conferences
-- Certificates and trophies
+- 👥 **Best Mentor Award**
 
 ---
 
-<!-- ## 🎓 Eligibility & Registration
-
-### **Who Can Participate?**
-Students from the following partner institutions:
-
-#### **🇺🇸 United States**
-- University of Arizona
-- Pima Community College  
-- Pasadena City College
-
-#### **🇦🇺 Australia**
-- University of New South Wales
-
-#### **🇻🇳 Vietnam**
-- Hanoi University of Science and Technology
-- VNU University of Engineering and Technology
-
-#### **🇮🇳 India**
-- Digital University of Kerala
-
-#### **🇩🇪 Germany**
-- University of Heidelberg
-
-### **Want to Join from Another Institution?**
-We're expanding! [Sign up here](https://forms.gle/your-expansion-form) to be notified when we add new partner universities.
-
--->
-
 ### **Registration Process**
 
-1. Visit our [Registration Portal](https://docs.google.com/forms/d/e/1FAIpQLSfK97GMOZIOzQLzJRQgRvERSuNhRE7zJlNWxrSctKrx-hGh0g/viewform?pli=1)
+1. Visit our [Registration Portal](https://docs.google.com/forms/d/10fVaFQuggTkw-JVKgR-nytReIazr4RHuvxvFBwvVd9k/viewform?ts=6a976218&edit_requested=true)
 2. Choose individual or team registration
 3. Complete eligibility verification
 4. Receive welcome packet and Discord access
@@ -238,9 +209,9 @@ We're expanding! [Sign up here](https://forms.gle/your-expansion-form) to be not
 
 ### **Video Tutorials**
 
-- Webinar #1: Getting Started with AI-HDL – Competition Overview & Toolchain Setup [Webinar #1]()
-- Webinar #2: Unveiling the Challenge – RISC-V Design Scope and Extensions [Webinar #2]()
-- Webinar #2 : From RTL to Results – Early Implementation & Demo Walkthrough” [Webinar #3]()
+- Webinar #1: Getting Started with AI-HDL – Competition Overview & Toolchain Setup  
+- Webinar #2: Unveiling the Challenge – Design Scope, Specifications, & Important Details   
+- Webinar #3: From Code to Results – Early Implementation & Demo Walkthrough
 
 ---
 
@@ -299,21 +270,9 @@ See our [Getting Started Guide](./docs/getting-started/README.md) for detailed i
 
 </div>
 
-### **Academic Institutions of Our Participants**
-
-University of Arizona • University of New South Wales • Hanoi University of Science and Technology • VNU University of Engineering and Technology • Digital University of Kerala • University of Heidelberg
-
 ### **Become a Sponsor**
 
 Interested in supporting the next generation of hardware designers?
-
-**Current sponsors provide:**
-
-- **EDA Tools & Software Licenses** (Synopsys, Cadence)
-- **Hardware & AI Acceleration** (NVIDIA, AMD)
-- **Educational Resources & Mentorship** (ARM)
-- **Research Funding & Grants** (NSF)
-- **Manufacturing & Tapeout Opportunities** (Foundry Partners)
 
 [Learn about sponsorship opportunities](https://docs.google.com/forms/d/e/1FAIpQLSdGh3RLK9qGv9ij3YxkrYtFA3ihsdO0pD0tZ0NQcQTs4n6TTg/viewform?usp=send_form)
 
@@ -322,7 +281,7 @@ Interested in supporting the next generation of hardware designers?
 ## 📁 Repository Structure
 
 ```
-AIHDL-2025-2027/
+AIHDL-2027/
 ├── challenges/                 # Competition challenges
 │   ├── challenge-1/           # First challenge materials
 │   ├── challenge-2/           # Second challenge materials
@@ -338,11 +297,7 @@ AIHDL-2025-2027/
 │   ├── DP-2/           # Second Design phase submissions
 │   └── DP-3/           # Third Design phase submissions
 │   └── DP-4/           # Fourth Design phase submissions
-├── tools/                     # Utility scripts and tools
-│   ├── OpenLANE_doc/       # Beginner tutorials
-│   ├── Openroad_doc/            # AI tool usage guides
-│   └── Verilator_doc/            # Additional learning materials
-│   └── Yosys_doc/            # Additional learning materials
+
 ```
 
 ---
@@ -359,7 +314,7 @@ AIHDL-2025-2027/
 
 - 🌐 **Official AI-HDL Website**: [csm.arizona.edu/AIHDL](https://csm.arizona.edu/AIHDL)
 - 🎓 **University of Arizona**: [Center for Semiconductor Manufacturing](https://csm.arizona.edu/)
-- 💬 **Discord**: [Join our community](https://discord.com/invite/dFXMvX6cNG)
+- 💬 **Discord**: [Join our community](https://discord.gg/egwa3FAAr) 
 
 ### **Frequently asked Questions**
 
@@ -383,8 +338,6 @@ AIHDL-2025-2027/
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-    b
-
 **What this means:**
 
 - ✅ You can share and adapt the materials
@@ -400,7 +353,7 @@ This repository is inspired by and builds upon the excellent work of the [Univer
 
 - **University of Arizona** [Center for Semiconductor Manufacturing](https://csm.arizona.edu/) and the AI-HDL organizing team
 - **Dr. Soheil Salehi** and the AI-HDL leadership team for pioneering AI-assisted hardware design education
-- **Major Industry Sponsors**: Synopsys, Cadence, NVIDIA, ARM, AMD, NSF, and foundry partners
+- **Major Industry Sponsors**: Synopsys, Cadence, NVIDIA, ARM, Intel, NSF, and foundry partners
 - All participating universities and their dedicated faculty
 - The open-source hardware and AI communities
 - Student participants who drive innovation forward
@@ -415,6 +368,6 @@ This repository is inspired by and builds upon the excellent work of the [Univer
 
 [**REGISTER NOW**](https://docs.google.com/forms/d/e/1FAIpQLSfK97GMOZIOzQLzJRQgRvERSuNhRE7zJlNWxrSctKrx-hGh0g/viewform?pli=1) | [**Join Discord**](https://discord.com/invite/dFXMvX6cNG) | [**Learn More**](https://csm.arizona.edu/AIHDL)
 
-*Building tomorrow's chips with today's AI* ⚡
+*FROM PROMPTS TO SILICON* ⚡
 
 </div>
