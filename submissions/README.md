@@ -1,6 +1,6 @@
 # AI-HDL Submission Guidelines
 
-This directory contains templates and guidelines for submitting your challenge solutions to AI-HDL 2025-2026.
+This directory contains templates and guidelines for submitting your challenge solutions to AI-HDL 2027.
 
 ## 📋 Submission Overview
 
