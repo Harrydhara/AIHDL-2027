@@ -18,7 +18,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 > **No prior hardware design experience required!** 🎯
 
-**🎓 Inspired by**: The pioneering work of the [University of Arizona AI-HDL program](https://csm.arizona.edu/AIHDL), which has successfully demonstrated the power of AI-assisted hardware design education with winners like "AI or Die" from University of Arizona and international teams from Vietnam, Germany, and India.
+**🎓 Inspired by**: The pioneering work of the [University of Arizona AI-HDL program](https://csm.arizona.edu/AIHDL), which has successfully demonstrated the power of AI-assisted hardware design education with previous winners from the University of Arizona and international teams.
 
 📖 **[Learn more about the connection to the official AI-HDL program →](./docs/about-aihdl.md)**
 
