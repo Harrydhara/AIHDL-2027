@@ -257,11 +257,3 @@ Help us build:
 
 Thank you for helping make AI-HDL a better experience for everyone! Your contributions, no matter how small, make a difference in advancing hardware design education and innovation.
 
-## 📞 Contact Information
-
-- **General Questions**: aihdl-support@arizona.edu
-- **Technical Issues**: aihdl-tech@arizona.edu
-- **Partnership Inquiries**: aihdl-partnerships@arizona.edu
-- **Media and Press**: aihdl-media@arizona.edu
-
-*Last updated: [Date] | Version: 1.0*
