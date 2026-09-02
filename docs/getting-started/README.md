@@ -66,41 +66,6 @@ Welcome to the AI Hardware Design League! This guide will help you get up and ru
    - [Power Optimization](./power-optimization.md)
    - [Performance Optimization](./performance-optimization.md)
 
-## 🧪 Tutorial Challenge
-
-Complete our hands-on tutorial to verify your setup:
-
-### Step 1: Environment Test
-```bash
-# Create a simple test
-mkdir aihdl-test && cd aihdl-test
-
-# Create basic Verilog files (see local setup guide for examples)
-# Compile and simulate
-iverilog -o test_design design.v testbench.v
-./test_design
-
-# View waveforms
-gtkwave test_design.vcd
-```
-
-### Step 2: AI Integration Test
-```bash
-# Test Python AI libraries
-python3 -c "import openai; print('AI libraries ready!')"
-
-# Create your first AI interaction log
-python3 ai_helper.py  # Using the script from local setup guide
-```
-
-### Step 3: Simple Design Challenge
-Create a 4-bit adder using AI assistance:
-
-1. **Prompt an LLM**: "Create a Verilog module for a 4-bit binary adder with carry-in and carry-out"
-2. **Save the code** to `adder_4bit.v`
-3. **Create a testbench** (also with AI help)
-4. **Simulate and verify** the design
-5. **Log your AI interactions**
 
 ## 👥 Team Formation
 
