@@ -2,7 +2,7 @@
 
 This directory contains example designs, templates, and reference implementations to help you get started with AI-assisted hardware design.
 
-## 📁 Directory Structure
+## 📁 Directory Structure 
 
 ```
 examples/
