@@ -29,54 +29,54 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
-# Previous Winners
+## Previous Winners
 
-## 🏆 AI-HDL 2027 Winners 
+### 🏆 AI-HDL 2027 Winners 
 
-### **🥇 Best Design Overall**
+#### **🥇 Best Design Overall**
 
 **SFSU-NeCRL** - *San Fransico State University, USA*
 
-### **🎓 Lower Division (Community College & Undergraduate)**
+#### **🎓 Lower Division (Community College & Undergraduate)**
 
 1. **ITIMS Boys** - *Hanoi University of Science and Technology, Vietnam*
 2. **Electronova** - *College of Engineering Trivandrum, India*
 3. **Maestro** - *The University of Arizona, USA*
 
-### **🎓 Upper Division (Graduate Teams - MS & PhD)**
+#### **🎓 Upper Division (Graduate Teams - MS & PhD)**
 
 1. **SFSU-NeCRL** - *San Fransico State University, USA*
 2. **Devrem** - *Yildiz Technical University, Türkiye*
 3. **Team Team** - *KU Leuven, Belgium*
 
-### **🥇 Most Secure Design**
+#### **🥇 Most Secure Design**
 
 **Acona-Tech** - *Ankara Yıldırım Beyazıt University,  Türkiye*
 
-### **🥇 Best Area-Efficient Design**
+#### **🥇 Best Area-Efficient Design**
 
 **ICLAB_HUST2** - *Hanoi University of Science and Technology, Vietnam*
 
-### **🥇 Best Energy-Efficient Design**
+#### **🥇 Best Energy-Efficient Design**
 
 **HUST1** - *Hanoi University of Science and Technology, Vietnam*
 
 ---
 
-## 🏆 AI-HDL 2025 Winners
+### 🏆 AI-HDL 2025 Winners
 
-### **🥇 Best Design Overall**
+#### **🥇 Best Design Overall**
 
 **AI or Die** - *The University of Arizona*
 
-### **🎓 Lower Division (Community College & Undergraduate)**
+#### **🎓 Lower Division (Community College & Undergraduate)**
 
 1. **AI or Die** - *The University of Arizona*
 2. **UET2** - *VNU University of Engineering and Technology* ⭐ *Most Secure Design*
 2. **DigiDynamos** - *Hanoi University of Science and Technology* ⚡ *Best Energy-Efficient Design*
 3. **CC-1** - *Pima Community College* 📐 *Best Area-Efficient Design*
 
-### **🎓 Upper Division (Graduate Teams)**
+#### **🎓 Upper Division (Graduate Teams)**
 
 1. **UHD CAT** - *University of Heidelberg*
 2. **UET1** - *VNU University of Engineering and Technology*
