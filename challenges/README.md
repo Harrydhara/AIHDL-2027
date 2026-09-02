@@ -1,6 +1,6 @@
-# AI-HDL 2025-2026 Challenges
+# AI-HDL 2027 Challenges
 
-Welcome to the challenge directory for AI-HDL 2025-2026! This directory contains all the competition challenges that teams will work on throughout the league.
+Welcome to the challenge directory for AI-HDL 2027! This directory contains all the competition challenges that teams will work on throughout the league.
 
 ## Challenge Structure
 
