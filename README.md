@@ -29,6 +29,8 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
+# Previous Winners
+
 ## 🏆 AI-HDL 2027 Winners 
 
 ### **🥇 Best Design Overall**
@@ -61,10 +63,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
-
----
-
-## 🏆 Previous Winners (2025)
+## 🏆 AI-HDL 2025 Winners
 
 ### **🥇 Best Design Overall**
 
