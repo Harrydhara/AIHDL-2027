@@ -367,7 +367,7 @@ This repository is inspired by and builds upon the excellent work of the [Univer
 
 **Ready to design the future?** 🚀
 
-[**REGISTER NOW**](https://docs.google.com/forms/d/e/1FAIpQLSfK97GMOZIOzQLzJRQgRvERSuNhRE7zJlNWxrSctKrx-hGh0g/viewform?pli=1) | [**Join Discord**](https://discord.com/invite/dFXMvX6cNG) | [**Learn More**](https://csm.arizona.edu/AIHDL)
+[**REGISTER NOW**](https://docs.google.com/forms/d/10fVaFQuggTkw-JVKgR-nytReIazr4RHuvxvFBwvVd9k/viewform?ts=6a976218&edit_requested=true) | [**Join Discord**](https://discord.gg/egwa3FAAr) | [**Learn More**](https://csm.arizona.edu/AIHDL)
 
 *FROM PROMPTS TO SILICON* ⚡
 
