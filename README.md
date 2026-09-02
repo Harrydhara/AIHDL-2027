@@ -1,8 +1,8 @@
-# AI Hardware Design League (AI-HDL) 2026
+# AI Hardware Design League (AI-HDL) 2027
 
 <div align="center">
 
-[![AI-HDL Logo](https://img.shields.io/badge/AI--HDL-2025--2026-blue?style=for-the-badge)](https://csm.arizona.edu/AIHDL)
+[![AI-HDL Logo](https://img.shields.io/badge/AI--HDL-2025--2027-blue?style=for-the-badge)](https://csm.arizona.edu/AIHDL)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=flat&logo=discord)](https://discord.com/invite/dFXMvX6cNG)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Welcome to AI-HDL 2026!
+## 🚀 Welcome to AI-HDL 2027!
 
 The **AI Hardware Design League (AI-HDL)** is an innovative educational competition that combines the power of **Artificial Intelligence** with **Hardware Design**. Students from around the world collaborate in teams to design cutting-edge hardware using Large Language Models (LLMs) and modern EDA tools.
 
@@ -29,7 +29,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
-## 🏆 AI-HDL 2026 Winners 
+## 🏆 AI-HDL 2027 Winners 
 
 ### **🥇 Best Design Overall**
 
@@ -61,7 +61,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
-## 🏆 Unified Design Phase Leaderboard 2026
+## 🏆 Unified Design Phase Leaderboard 2027
 
 <div align="center">
 
@@ -96,7 +96,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 <!--
 ---
 
-## 🏅 Design Phase 1 (DP1) Leaderboard 2026
+## 🏅 Design Phase 1 (DP1) Leaderboard 2027
 
 <div align="center">
 
@@ -121,7 +121,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
-## 🏅🏅 Design Phase 2 (DP2) Leaderboard 2026
+## 🏅🏅 Design Phase 2 (DP2) Leaderboard 2027
 
 <div align="center">
 
@@ -145,7 +145,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
-## 🏅🏅🏅 Design Phase 3 (DP3) Leaderboard 2026
+## 🏅🏅🏅 Design Phase 3 (DP3) Leaderboard 2027
 
 <div align="center">
 
@@ -190,7 +190,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
-## 📅 Timeline 2025-2026
+## 📅 Timeline 2025-2027
 
 | Date                        | Event                                                                              |
 | --------------------------- | ---------------------------------------------------------------------------------- |
@@ -199,16 +199,16 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 | **November 20 2025**  | Webinar 2: Design Challenge Announcement and Overview                                           |
 | **December 18 2025**  | Webinar 3: Base Design Implementation Demo and Q&A                                              |
 | **November 30 2025**  | Registration Closes                                                                |
-| **January 15 2026**   | League Starts with Design Phase #1 Base Design Expansion |
-| **January 29 2026**   | Milestone Review and Office Hours #1                                               |
-| **February 12 2026**  | Design Phase #2 Design Evaluation and PPA Optimization                                         |
-| **February 26 2026**  | Milestone Review and Office Hours #2                                               |
-| **March 12 2026**     | Design Phase #3 Security Evaluation and Threat Mitigation                      |
-| **March 26 2026**     | Milestone Review and Office Hours #3                                               |
-| **April 9 2026**      | Design Phase #4 Design Netlist to Chip Tapeout                        |
-| **April 23 2026**     | Milestone Review and Office Hours #4                                               |
-| **May 7 2026**        | League Ends with Final Design Submission, Review, and Evaluations.                              |
-| **May 14 2026**       | Winner Announcement.                                                                |
+| **January 15 2027**   | League Starts with Design Phase #1 Base Design Expansion |
+| **January 29 2027**   | Milestone Review and Office Hours #1                                               |
+| **February 12 2027**  | Design Phase #2 Design Evaluation and PPA Optimization                                         |
+| **February 26 2027**  | Milestone Review and Office Hours #2                                               |
+| **March 12 2027**     | Design Phase #3 Security Evaluation and Threat Mitigation                      |
+| **March 26 2027**     | Milestone Review and Office Hours #3                                               |
+| **April 9 2027**      | Design Phase #4 Design Netlist to Chip Tapeout                        |
+| **April 23 2027**     | Milestone Review and Office Hours #4                                               |
+| **May 7 2027**        | League Ends with Final Design Submission, Review, and Evaluations.                              |
+| **May 14 2027**       | Winner Announcement.                                                                |
 
 ---
 
@@ -427,7 +427,7 @@ Interested in supporting the next generation of hardware designers?
 ## 📁 Repository Structure
 
 ```
-AIHDL-2025-2026/
+AIHDL-2025-2027/
 ├── challenges/                 # Competition challenges
 │   ├── challenge-1/           # First challenge materials
 │   ├── challenge-2/           # Second challenge materials
