@@ -61,7 +61,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 **HUST1** - *Hanoi University of Science and Technology, Vietnam*
 
----
+--
 
 ### 🏆 AI-HDL 2025 Winners
 
