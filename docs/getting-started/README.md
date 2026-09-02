@@ -26,21 +26,6 @@ Welcome to the AI Hardware Design League! This guide will help you get up and ru
 
 **Don't worry if you're missing some of these - we'll teach you everything you need to know!**
 
-## 🛠️ Environment Setup
-
-### Local Installation (Recommended)
-
-Install the required tools directly on your system for the best performance and flexibility:
-
-**Required tools:**
-- Icarus Verilog (simulation)
-- GTKWave (waveform viewer)
-- Yosys (synthesis)
-- Python 3.8+ (AI integration)
-- Git (version control)
-
-**📖 Detailed installation instructions**: [Local Setup Guide](./local-setup.md)
-
 ## 🎓 Learning Path
 
 ### Phase 1: Foundations (Week 1-2)
